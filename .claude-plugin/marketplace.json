@@ -16,7 +16,7 @@
         "url": "https://github.com/softwarecatscomgm/kiro.git"
       },
       "description": "Spec-driven development methodology with agents, commands, and skills for requirements, design, tasks, AI prompting, QA, and troubleshooting",
-      "version": "1.2.0"
+      "version": "1.2.1"
     }
   ]
 }
