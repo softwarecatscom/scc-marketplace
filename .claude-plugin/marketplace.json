@@ -1,0 +1,22 @@
+{
+  "name": "scc-marketplace",
+  "owner": {
+    "name": "SoftwareCats",
+    "url": "https://github.com/softwarecatscomgm"
+  },
+  "metadata": {
+    "description": "SoftwareCats plugin marketplace for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kiro",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/softwarecatscomgm/kiro.git"
+      },
+      "description": "Spec-driven development methodology with agents, commands, and skills for requirements, design, tasks, AI prompting, QA, and troubleshooting",
+      "version": "1.2.0"
+    }
+  ]
+}
