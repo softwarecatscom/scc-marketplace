@@ -17,6 +17,15 @@
       },
       "description": "Spec-driven development methodology with agents, commands, and skills for requirements, design, tasks, AI prompting, QA, and troubleshooting",
       "version": "1.2.1"
+    },
+    {
+      "name": "mail",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/softwarecatscom/claude-plugin-mail.git"
+      },
+      "description": "LAN email polling and communication for Claude Code agents via OpenSMTPD + Maildir",
+      "version": "0.1.0"
     }
   ]
 }
