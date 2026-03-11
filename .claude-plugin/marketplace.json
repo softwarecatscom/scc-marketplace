@@ -26,7 +26,7 @@
       "description": "LAN email polling and communication for Claude Code agents via OpenSMTPD + Maildir"
     },
     {
-      "name": "slack",
+      "name": "scc-slack",
       "source": {
         "source": "url",
         "url": "https://github.com/softwarecatscom/claude-plugin-slack.git"
