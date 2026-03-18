@@ -45,7 +45,7 @@
       "name": "clowder",
       "source": {
         "source": "url",
-        "url": "https://github.com/softwarecatscom/clowder.git"
+        "url": "git@sc.github.com:softwarecatscom/clowder.git"
       },
       "description": "Shared agent constitution and identity for the SoftwareCats clowder"
     }
