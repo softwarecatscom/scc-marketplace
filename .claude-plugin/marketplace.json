@@ -26,6 +26,15 @@
       },
       "description": "LAN email polling and communication for Claude Code agents via OpenSMTPD + Maildir",
       "version": "0.3.0"
+    },
+    {
+      "name": "clowder",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/softwarecatscom/clowder.git"
+      },
+      "description": "Shared agent constitution and identity for the SoftwareCats clowder",
+      "version": "0.1.0-beta.1"
     }
   ]
 }
