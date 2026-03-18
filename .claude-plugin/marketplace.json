@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "SoftwareCats plugin marketplace for Claude Code",
-    "version": "1.0.0"
+    "version": "1.3.0"
   },
   "plugins": [
     {
@@ -15,8 +15,7 @@
         "source": "url",
         "url": "https://github.com/softwarecatscomgm/kiro.git"
       },
-      "description": "Spec-driven development methodology with agents, commands, and skills for requirements, design, tasks, AI prompting, QA, and troubleshooting",
-      "version": "1.2.1"
+      "description": "Spec-driven development methodology with agents, commands, and skills for requirements, design, tasks, AI prompting, QA, and troubleshooting"
     },
     {
       "name": "mail",
@@ -24,8 +23,23 @@
         "source": "url",
         "url": "https://github.com/softwarecatscom/claude-plugin-mail.git"
       },
-      "description": "LAN email polling and communication for Claude Code agents via OpenSMTPD + Maildir",
-      "version": "0.3.0"
+      "description": "LAN email polling and communication for Claude Code agents via OpenSMTPD + Maildir"
+    },
+    {
+      "name": "scc-slack",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/softwarecatscom/claude-plugin-slack.git"
+      },
+      "description": "Slack messaging plugin for Claude Code agents via rockymadden/slack-cli"
+    },
+    {
+      "name": "mac-setup-droid",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/softwarecatscom/mac-setup-droid.git"
+      },
+      "description": "Phased, resumable Mac setup orchestrator — automates new Mac setup with scripts, AI-guided steps, and Brewfile management"
     },
     {
       "name": "clowder",
@@ -33,8 +47,7 @@
         "source": "url",
         "url": "https://github.com/softwarecatscom/clowder.git"
       },
-      "description": "Shared agent constitution and identity for the SoftwareCats clowder",
-      "version": "0.1.0-beta.1"
+      "description": "Shared agent constitution and identity for the SoftwareCats clowder"
     }
   ]
 }
