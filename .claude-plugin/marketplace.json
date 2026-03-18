@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "SoftwareCats plugin marketplace for Claude Code",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "plugins": [
     {
@@ -32,6 +32,14 @@
         "url": "https://github.com/softwarecatscom/claude-plugin-slack.git"
       },
       "description": "Slack messaging plugin for Claude Code agents via rockymadden/slack-cli"
+    },
+    {
+      "name": "mac-setup-droid",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/softwarecatscom/mac-setup-droid.git"
+      },
+      "description": "Phased, resumable Mac setup orchestrator — automates new Mac setup with scripts, AI-guided steps, and Brewfile management"
     }
   ]
 }
