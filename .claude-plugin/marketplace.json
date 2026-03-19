@@ -37,7 +37,7 @@
       "name": "mac-setup-droid",
       "source": {
         "source": "url",
-        "url": "https://github.com/softwarecatscom/mac-setup-droid.git"
+        "url": "git@sc.github.com:softwarecatscom/mac-setup-droid.git"
       },
       "description": "Phased, resumable Mac setup orchestrator — automates new Mac setup with scripts, AI-guided steps, and Brewfile management"
     }
