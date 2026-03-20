@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "SoftwareCats plugin marketplace for Claude Code",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   "plugins": [
     {
@@ -21,7 +21,7 @@
       "name": "mail",
       "source": {
         "source": "url",
-        "url": "https://github.com/softwarecatscom/claude-plugin-mail.git"
+        "url": "git@sc.github.com:softwarecatscom/claude-plugin-mail.git"
       },
       "description": "LAN email polling and communication for Claude Code agents via OpenSMTPD + Maildir"
     },
@@ -29,7 +29,7 @@
       "name": "scc-slack",
       "source": {
         "source": "url",
-        "url": "https://github.com/softwarecatscom/claude-plugin-slack.git"
+        "url": "git@sc.github.com:softwarecatscom/claude-plugin-slack.git"
       },
       "description": "Slack messaging plugin for Claude Code agents via rockymadden/slack-cli"
     },
